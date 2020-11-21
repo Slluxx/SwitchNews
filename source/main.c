@@ -30,7 +30,7 @@ int main(int argc, char *argv[])
                 WebCommonReply reply;
                 WebExitReason exitReason = 0;
 
-                rc = webPageCreate(&config, "http://188.68.35.151/");
+                rc = webPageCreate(&config, "http://www.switchnews.space/#/");
                 if (R_SUCCEEDED(rc))
                 {
                     rc = webConfigSetWhitelist(&config, "^http*");
