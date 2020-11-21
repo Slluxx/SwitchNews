@@ -1,2 +1,2 @@
-# NxNews
-Alternative nintendo switch news
+# SwitchNews
+Alternative nintendo switch & scene news
